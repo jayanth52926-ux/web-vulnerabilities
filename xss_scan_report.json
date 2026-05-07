@@ -1,0 +1,8 @@
+{
+  "seed": "http://localhost/",
+  "allow_hosts": [
+    "localhost"
+  ],
+  "findings_count": 0,
+  "findings": []
+}
